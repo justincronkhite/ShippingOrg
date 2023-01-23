@@ -6,7 +6,7 @@ public with sharing class PennyAuth {
     public static String run() {
         String endpoint = 'https://login.salesforce.com/services/oauth2/token';
         String username = 'maynard@pennyroyal.com';
-        String password = 'nOrCCU29Tf2uEiz7NecI8XH5jCOfPttkMT079';
+        String password = 'Yif1X7!%23qokYYCyk6DUD21zXIdyEK5oJqVGZ';
         String CONSUMER_KEY = '3MVG9tSqyyAXNH5JL3AdnWmkhr.HiJrdX7TLCxt2zQxnR00lbQGGl_IKGzRhO9xh_rqEp8QmuWIw3QgNyI3Vo';
         String CONSUMER_SECRET = 'D2A656BDF7B155C92D599240D4D1ACB67FE313A7E4301FC834F510ACD70BDA04';
 
